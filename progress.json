@@ -230,15 +230,5 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788341247.657586,
-    "completed_at": 1788341251.353486,
-    "comments": [
-      "You cannot use fast forwarding on feature/login when merging.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
